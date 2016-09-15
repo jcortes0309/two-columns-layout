@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.left-column {
+  background-color: yellow;
+  position: absolute;
+  width: 20%;
+  height: 100%;
+  left: 0;
+}
+
+.right-column {
+  background-color: blue;
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  left: 20%;
+}
